@@ -12,3 +12,9 @@ Here are some ideas to get you started:
   - New Orleans
 - 📫 How to reach me: mike@cloudswing.info
 
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+\
