@@ -2,7 +2,7 @@
 
 |                            |                               | |
 | --------------------------- | ---------------------------| ---------------------------|
-|<img src='/svg/react.svg' width='100'/>   | <img src='./svg/nextjs.svg' width='100'/>  | <img src='./svg/config-typescript.svg' width='100'/>  |
+|<img src='https://raw.githubusercontent.com/mconnor/mconnor/master/svg/react.svg' width='100'/>   | <img src='https://raw.githubusercontent.com/mconnor/mconnor/master/svg/nextjs.svg' width='100'/>  | <img src='https://raw.githubusercontent.com/mconnor/mconnor/master/svg/config-typescript.svg' width='100'/>  |
 
 ### React.js, Next.js, and Typescript are my go to tools. 
 
