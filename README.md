@@ -4,7 +4,7 @@
 | --------------------------- | ---------------------------| ---------------------------|
 |<img src='https://raw.githubusercontent.com/mconnor/mconnor/master/svg/react.svg' width='100'/>   | <img src='https://raw.githubusercontent.com/mconnor/mconnor/master/svg/nextjs.svg' width='100'/>  | <img src='https://raw.githubusercontent.com/mconnor/mconnor/master/svg/config-typescript.svg' width='100'/>  |
 
-### React.js, Next.js, and Typescript are my go to tools. 
+### React/ReactNative, Next.js, Expo,and Typescript are my go to tools. 
 
 I rely on custom hooks and the context Api for state management. Redux... used it. But frankly, it's a lot of ceremony.
 
