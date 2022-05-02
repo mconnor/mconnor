@@ -4,9 +4,9 @@
 | --------------------------- | ---------------------------| ---------------------------|
 |<img src='https://raw.githubusercontent.com/mconnor/mconnor/master/svg/react.svg' width='100'/>   | <img src='https://raw.githubusercontent.com/mconnor/mconnor/master/svg/nextjs.svg' width='100'/>  | <img src='https://raw.githubusercontent.com/mconnor/mconnor/master/svg/config-typescript.svg' width='100'/>  |
 
-I am a Frontend developer with twenty years experience developing applications for the auto, pharmaceutical, entertainment, and advertising industries. Which is to say, I was a Flash dev and now... i'm a React Native developer.
+I am a Frontend developer with twenty years experience developing applications for the auto, pharmaceutical, entertainment, and advertising industries. Which is to say, I was a long-time Flash dev and now I'm a React Native developer by way of digital advertising.
 
-I have been working with Hybrid building a mobile marketing app for the Cannabis industry for the last couple of years.
+I have been working with a small startup -  Hybrid - building a mobile marketing app for the Cannabis industry for the last couple of years.
 
 My current and preferred tech stack is:
 
