@@ -1,25 +1,34 @@
-## 👋 I'm Mike Connor a developer in New Orleans
+# 👋 I'm Mike Connor - a developer in New Orleans
 
 |                            |                               | |
 | --------------------------- | ---------------------------| ---------------------------|
 |<img src='https://raw.githubusercontent.com/mconnor/mconnor/master/svg/react.svg' width='100'/>   | <img src='https://raw.githubusercontent.com/mconnor/mconnor/master/svg/nextjs.svg' width='100'/>  | <img src='https://raw.githubusercontent.com/mconnor/mconnor/master/svg/config-typescript.svg' width='100'/>  |
 
-### React/ReactNative, Next.js, Expo,and Typescript are my go to tools. 
+I am a Frontend developer with twenty years experience developing applications for the auto, pharmaceutical, entertainment, and advertising industries. Which is to say, I was a Flash dev and now... i'm a React Native developer.
 
-I rely on custom hooks and the context Api for state management. Redux... used it. But frankly, it's a lot of ceremony.
+I have been working with Hybrid building a mobile marketing app for the Cannabis industry for the last couple of years.
 
-I’m currently wading into mobile and full stack development.
+My current and preferred tech stack is:
 
-- 💬 You can ask me about:
-  - White water rafting on the American River
-  - New Orleans
-  - Crossfit
-  - Dogs
-- 📫 How to reach me: mike@cloudswing.info
+- React, Next.js
+- ReactNative, Expo
+- Nativebase component library
+- Typescript
+- monorepos (yarn workspaces)
+- Graphql
 
-### 📕 Latest Blog Posts
+I live in New Orleans - the greatest city in the world. I'm a huge fan of JazzFest - which is literally just behind my backyard.
 
-<!-- BLOG-POST-LIST:START -->
-- [Sanity!](https://dev.to/mconnor/sanity-21p7)
-- [Github actions](https://dev.to/mconnor/github-actions-3i0d)
-<!-- BLOG-POST-LIST:END -->
+I've traveled through Central America, Siberia (Tuva), Morocco.
+
+I've been all in on a lot of bone crushingly exhausting large scale art projects (The Temple at that thing in the desert). Working through the night with power tools for vacation.
+
+- I ride a KLR 650
+- I worked on as a professional white water rafting guide for a summer
+- Dogs and I get along well
+- I am one of those obnoxious Crossfit people.
+
+A favorite quote is from Jazz Critic and radical pragmatist:
+
+> The high point of civilization is that you can hate me and I can hate you but we develop an etiquette that allows us to deal with each other because if we acted solely upon our impulse we'd probably go to war.
+
