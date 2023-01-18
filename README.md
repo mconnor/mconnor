@@ -17,7 +17,8 @@ My current and preferred tech stack is:
 - monorepos (yarn workspaces)
 - Graphql
 
-I live in New Orleans - the greatest city in the world. I'm a huge fan of JazzFest - which is literally just behind my backyard.
+I've returned to my home town, KCMO, after a long wonderful stint in
+New Orleans. I'm a huge fan of [JazzFest](https://www.nojazzfest.com/) - which is literally just behind my backyard.
 
 I've traveled through Central America, Siberia (Tuva), Morocco.
 
@@ -28,7 +29,7 @@ I've been all in on a lot of bone crushingly exhausting large scale art projects
 - Dogs and I get along well
 - I am one of those obnoxious Crossfit people.
 
-A favorite quote is from Jazz Critic and radical pragmatist:
+A favorite quote is from Jazz Critic and radical pragmatist, Stanley Crouch.:
 
 > The high point of civilization is that you can hate me and I can hate you but we develop an etiquette that allows us to deal with each other because if we acted solely upon our impulse we'd probably go to war.
 
