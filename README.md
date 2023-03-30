@@ -1,4 +1,4 @@
-# 👋 I'm Mike Connor - a developer in New Orleans
+# 👋 I'm Mike Connor - a developer in Kansas City
 
 |                            |                               | |
 | --------------------------- | ---------------------------| ---------------------------|
